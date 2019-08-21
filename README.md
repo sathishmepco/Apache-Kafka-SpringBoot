@@ -13,4 +13,4 @@ Integrated Apache Kafka in Spring Boot. Send and Receive messages.
  - Check MessageConsumer console to see the received messages
 
 ## How it works?
-![kafka_producer_consumer](https://user-images.githubusercontent.com/5689784/63374161-ed049a00-c3a6-11e9-8777-3bc39c1d4655.gif)
+[![kafka_producer_consumer](https://user-images.githubusercontent.com/5689784/63374161-ed049a00-c3a6-11e9-8777-3bc39c1d4655.gif)](https://www.youtube.com/watch?v=91yYkqZmOUk)
