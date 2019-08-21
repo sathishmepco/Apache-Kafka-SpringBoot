@@ -2,7 +2,7 @@
 Integrated Apache Kafka in Spring Boot. Send and Receive messages.
 
 ## Installing Apache Kafka in Windows Operating System
-![Kafka_Windows_Installation_Short](https://user-images.githubusercontent.com/5689784/63411211-b3697880-c412-11e9-8062-8af213e95c8b.gif)
+[![Kafka_Windows_Installation](https://user-images.githubusercontent.com/5689784/63411211-b3697880-c412-11e9-8062-8af213e95c8b.gif)](https://www.youtube.com/watch?v=QN7M5ZaTNvI)
 
 ## Steps to run this projects.
  - Install the Apache Kafka
